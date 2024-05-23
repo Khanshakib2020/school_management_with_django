@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loginpage{
+  margin-left: 110px;
+  margin-right: 110px;
+}
